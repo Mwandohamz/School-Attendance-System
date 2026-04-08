@@ -11,8 +11,8 @@ It is a lightweight system designed for learning purposes and small-scale use, a
 
 
 🛠️ Tech Stack
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 
